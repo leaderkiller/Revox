@@ -138,7 +138,8 @@
   <type>movie</type>
   <thumbnail></thumbnail>
   <link>
-    <sublink>http://37.48.82.104:43911/ls/140/index.m3u8?c=e36217a6f04fe2c8ce2a009f840e718522e52c9d6588b099dadcd904e48ee669&cid=1452430802&eid=5692262758fdf026654518</sublink>
+    <sublink>rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_OWw0MWZjcjFzZ21jbGVqfDE0NTI1MTc4NTZ8ODYuNDYuMTk2LjgwfDU2OTI1ODYwMDMwNDN8ZWE2MDQwZjE3MTdjMTMxOTFiYTU5MTZmNDYzYjdhYzY5OTU0NGMyYg..=playpath=9l41fcr1sgmclej =swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf =pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=700&height=480&channel=71632&autoplay=true
+</sublink>
     <sublink></sublink>
     <sublink></sublink>
   </link>
