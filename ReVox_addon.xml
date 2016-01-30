@@ -4,6 +4,8 @@
 
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
+
+
 <poster>Pi Movies</poster>
 <fanart>http://i1240.photobucket.com/albums/gg498/darren_nolan1/PiMovies_zps9ddfce28.jpg</fanart>
 
@@ -13,6 +15,10 @@
 #PLAYLIST ITEMS#
 
 <item>
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 <title>Kingsman: The Secret Service (2014)</title>
 <link>https://lh3.googleusercontent.com/hyKbnKoXyEZGKCb2A8dNZ9AWWV9Izo9ANxJODkoB-A=m37</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTkxMjgwMDM4Ml5BMl5BanBnXkFtZTgwMTk3NTIwNDE@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
@@ -24,6 +30,7 @@
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjEyNTU4NTE5NV5BMl5BanBnXkFtZTgwNzY4NzIxNDE@._V1_SX214_AL_.jpg</thumbnail>
 
 
+<<<<<<< HEAD
 <title>The Brave (1997)</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
 <link>http://clicknupload.me/oiutjn2f9aj0</link>
@@ -83,5 +90,8 @@
 <title>The Expendables 3 (2014)</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_SX214_AL_.jpg</thumbnail>
 <link>https://lh3.googleusercontent.com/gZO_xgKU8p6Ktgb1mrPJcrcB4aVAFkrzksuajfIUNg=m37</link>
+=======
+</item>
+>>>>>>> origin/master
 
 </item>
