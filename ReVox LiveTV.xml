@@ -1,14 +1,44 @@
-#EXTINF:-1, SKY SPORTS 1
-http://live.pushpublish.tv/mylive/vskys1/playlist.m3u8
-#EXTINF:-1, SKY SPORTS 2
-http://live.pushpublish.tv/mylive/vskys2/playlist.m3u8
-#EXTINF:-1, SKY SPORTS 3
-http://live.pushpublish.tv/mylive/vskys3/playlist.m3u8
-#EXTINF:-1, SKY SPORTS 4
-http://live.pushpublish.tv/mylive/vskys4/playlist.m3u8
-#EXTINF:-1, SKY SPORTS 5
-http://live.pushpublish.tv/mylive/vskys5/playlist.m3u8
-#EXTINF:-1, BT Sport 1
-http://live.pushpublish.tv/mylive/vbt1/playlist.m3u8
-#EXTINF:-1, BT Sport 2
-http://live.pushpublish.tv/mylive/vbt2/playlist.m3u8
+#EXTM3U #EXTINF:-1,1 - Animal Planet http://217.23.15.222/animal_planet_gb.m3u8?user=62211&token=ba9ddce0054c3a3de5a3cbe5328ff43a&e=1454231854&bands=956 
+#EXTINF:-1,2 - At The Races UK http://217.23.15.222/at_the_races_gb.m3u8?user=62211&token=54983fdffa8f57e204516ee6c309d803&e=1454231854&bands=956 
+#EXTINF:-1,3 - BBC One HD http://217.23.15.222/bbc_one_gb.m3u8?user=62211&token=ac21b1d7e78aa3765bc8c59d604d74eb&e=1454231854&bands=956 
+#EXTINF:-1,4 - BBC Two http://217.23.15.222/bbc_two_eng_gb.m3u8?user=62211&token=6e0ef1d299f2aa9a8acb53b5ed839d48&e=1454231854&bands=956 
+#EXTINF:-1,5 - BT Sport 1 http://217.23.15.222/bt_sport1_gb.m3u8?user=62211&token=83d42469b7d712d46f249c4a1e05bfa4&e=1454231854&bands=956 
+#EXTINF:-1,6 - BT Sport 2 http://217.23.15.222/bt_sport2_gb.m3u8?user=62211&token=9f8dc55bcbd8afa24878c2cbde9797d5&e=1454231854&bands=956 
+#EXTINF:-1,7 - BoxNation http://217.23.15.222/boxnation_gb.m3u8?user=62211&token=0343eae3bdf58aa7a84fb505330f4f19&e=1454231854&bands=956 
+#EXTINF:-1,8 - Cartoon Network http://217.23.15.222/cartoon_network_gb.m3u8?user=62211&token=654d56bb2b7fee695f9f938bc8ee03ca&e=1454231854&bands=956 
+#EXTINF:-1,9 - Channel 4 London http://217.23.15.222/chan_4_london_gb.m3u8?user=62211&token=016d8bc6c6be661bf7a89123754f023a&e=1454231854&bands=956 
+#EXTINF:-1,10 - Discovery History UK http://217.23.15.222/discovery_history_gb.m3u8?user=62211&token=7b3d6f40b327827f0e6ddaa3934d2ed7&e=1454231854&bands=956 
+#EXTINF:-1,11 - Discovery Science UK http://217.23.15.222/discovery_science_gb.m3u8?user=62211&token=1b09f8f965f226b41293c0608d0cb914&e=1454231854&bands=956 
+#EXTINF:-1,12 - Discovery UK http://217.23.15.222/discovery_gb.m3u8?user=62211&token=3d16e617c6201e259b65f39a85637492&e=1454231854&bands=956 
+#EXTINF:-1,13 - Disney Channel http://217.23.15.222/disney_channel_gb.m3u8?user=62211&token=3544ad2896044262b01783f3e0453ffe&e=1454231854&bands=956 
+#EXTINF:-1,14 - Disney Junior UK http://217.23.15.222/disney_junior_gb.m3u8?user=62211&token=f79d743e1ab052945220745101698b40&e=1454231854&bands=956 
+#EXTINF:-1,15 - ITV London http://217.23.15.222/itv1_gb.m3u8?user=62211&token=f34c633974bc92517cb9d234ede07d30&e=1454231854&bands=956 
+#EXTINF:-1,16 - MTV3 http://217.23.15.222/mtv3_fi.m3u8?user=62211&token=6f7bf1f30768eee93a96ea550be59467&e=1454231854&bands=956 
+#EXTINF:-1,17 - NatGeoWild UK http://217.23.15.222/natgeo_wild_gb.m3u8?user=62211&token=9c93bcbbe29b85724fefbe37e2d10d31&e=1454231854&bands=956 
+#EXTINF:-1,18 - National Geographic http://217.23.15.222/natgeo_gb.m3u8?user=62211&token=986c76a1811d48df6af1d858eb4a2e76&e=1454231854&bands=956 
+#EXTINF:-1,19 - Nick Jr UK http://217.23.15.222/nick_junior_gb.m3u8?user=62211&token=c684add8ec9ae7202d4a6a639e7355ab&e=1454231854&bands=956 
+#EXTINF:-1,20 - Nickelodeon http://217.23.15.222/nickelodeon_gb.m3u8?user=62211&token=0a43b26e58626240920b196c936d973d&e=1454231854&bands=956 
+#EXTINF:-1,21 - RTÃ One http://217.23.15.222/rte_one_ie.m3u8?user=62211&token=a8bb5ef0539a74dd61f9927d7e66193f&e=1454231854&bands=956 
+#EXTINF:-1,22 - RTÃ Two http://217.23.15.222/rte_two_ie.m3u8?user=62211&token=7e648aca4b9d62c22d5b28081daadbc7&e=1454231854&bands=956 
+#EXTINF:-1,23 - Racing UK http://217.23.15.222/racing_gb.m3u8?user=62211&token=72ca861ce1c9729abb9cd6e817413a19&e=1454231854&bands=956 
+#EXTINF:-1,24 - Setanta Ireland http://217.23.15.222/setanta_ie.m3u8?user=62211&token=204edb4353035a0b90829fb4673f4255&e=1454231854&bands=956 
+#EXTINF:-1,25 - Sky Action UK http://217.23.15.222/sky_moviesaction_gb.m3u8?user=62211&token=82d97b321259b1b6bfcda38a5124333f&e=1454231854&bands=956 
+#EXTINF:-1,26 - Sky Movies Comedy http://217.23.15.222/sky_moviescomedy_gb.m3u8?user=62211&token=0faedd77ee7c0cffe36112ebe0722a76&e=1454231854&bands=956 
+#EXTINF:-1,27 - Sky Movies Crime & Thriller http://217.23.15.222/sky_moviescrime_gb.m3u8?user=62211&token=3915030eb9a6d14267acab65d2fe7212&e=1454231854&bands=956 
+#EXTINF:-1,28 - Sky Movies Drama Romance http://217.23.15.222/sky_drama_rom_gb.m3u8?user=62211&token=4b414e730ca6e741a94d26bfadf9e3bf&e=1454231854&bands=956 
+#EXTINF:-1,29 - Sky Movies Family http://217.23.15.222/sky_mov_fam_gb.m3u8?user=62211&token=1adfad79a1074223481e63ac1f4d6791&e=1454231854&bands=956 
+#EXTINF:-1,30 - Sky Movies Premiere EN http://217.23.15.222/sky_moviespremiere_gb.m3u8?user=62211&token=6058f7e5511ae179abfe45ab5388847e&e=1454231854&bands=956 
+#EXTINF:-1,31 - Sky Movies Sci-Fi Horror http://217.23.15.222/sky_moviesscifi_gb.m3u8?user=62211&token=18b73b8cae5f1fcd6686b7a13ba36af9&e=1454231854&bands=956 
+#EXTINF:-1,32 - Sky Sports 1 http://217.23.15.222/sky_sports1gb.m3u8?user=62211&token=3327a4e4d34048a9cfc582d85e6f7d95&e=1454231854&bands=956 
+#EXTINF:-1,33 - Sky Sports 2 http://217.23.15.222/sky_sports2gb.m3u8?user=62211&token=938321bcaebf00766bb947ffe7d82b03&e=1454231854&bands=956 
+#EXTINF:-1,34 - Sky Sports 3 http://217.23.15.222/sky_sports3gb.m3u8?user=62211&token=20bc0adb1b37fc624f3e3eb960051964&e=1454231854&bands=956 
+#EXTINF:-1,35 - Sky Sports 4 http://217.23.15.222/sky_sports4gb.m3u8?user=62211&token=ea0be17a5f68a33fcff6bb7b73c1f748&e=1454231854&bands=956 
+#EXTINF:-1,36 - Sky Sports 5 http://217.23.15.222/sky_sports5gb.m3u8?user=62211&token=73840eab6c7780ca2fc1af7f4963f283&e=1454231854&bands=956 
+#EXTINF:-1,37 - Sky Sports News http://217.23.15.222/sky_sportsnewsgb.m3u8?user=62211&token=4adbf8ff4b35989af0f018bbe59aa602&e=1454231854&bands=956 
+#EXTINF:-1,38 - TSN 3 http://217.23.15.222/tsn3_us.m3u8?user=62211&token=1dcc55e5684a71dad975113b51b6a301&e=1454231854&bands=956 
+#EXTINF:-1,39 - TSN 4 http://217.23.15.222/tsn4_us.m3u8?user=62211&token=3c8ce6410d7b560605052221409c538f&e=1454231854&bands=956 
+#EXTINF:-1,40 - TSN 5 http://217.23.15.222/tsn5_us.m3u8?user=62211&token=d8662e6dd211caaac1a9ceaf3221e862&e=1454231854&bands=956 
+#EXTINF:-1,41 - TV2 http://217.23.15.222/tv2_no.m3u8?user=62211&token=01b598808af4be74c3b3db4af7603df8&e=1454231854&bands=956 
+#EXTINF:-1,42 - TV3 Ireland http://217.23.15.222/tv3_ireland_ie.m3u8?user=62211&token=66bea1eef4604ac885cb1375f456b9e0&e=1454231854&bands=956 
+#EXTINF:-1,50 - BEIN Sports 1 HD http://217.23.15.222/bein_sports1_fr.m3u8?user=62211&token=954b24e75be56d5ed9fa3fb4389ceb81&e=1454231854&bands=956 
+#EXTINF:-1,51 - BEIN Sports 2 HD http://217.23.15.222/bein_sports2_fr.m3u8?user=62211&token=24a565700a810c7ee87bbcda337aca92&e=1454231854&bands=956 
