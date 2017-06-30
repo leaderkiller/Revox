@@ -11,10 +11,9 @@
 
 
 	<name>[B][COLOR steelblue]HD[/COLOR] [COLOR white]Movies[/COLOR][/B]</name>
-	<link>https://raw.githubusercontent.com/leaderkiller/Revox/master/ReVox_addon.xml</link>
+	<externallink>https://raw.githubusercontent.com/leaderkiller/Revox/master/ReVox_addon.xml</externallink>
     <thumbnail>http://i1240.photobucket.com/albums/gg498/darren_nolan1/Bluray_zps9f91f9d8.png</thumbnail>	
 	
-
     <name>[B][COLOR steelblue]Kids[/COLOR] [COLOR white]Movies[/COLOR][/B]</name>
 	<link>https://raw.githubusercontent.com/leaderkiller/Revox/master/Kids_addon.xml</link>
     <thumbnail>http://i1240.photobucket.com/albums/gg498/darren_nolan1/Bluray_zps9f91f9d8.png</thumbnail>
